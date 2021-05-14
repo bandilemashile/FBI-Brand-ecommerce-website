@@ -1,0 +1,7 @@
+
+
+localhost:3306
+database name  = fearozrb_innocent
+user name = fearozrb_admin
+password= .tOqi2Awebr6
+
