@@ -7,6 +7,7 @@ Ecommerce website for fear of being innocent clothing brand with product display
 ![Test Image 1](pay.JPG)
 ![Test Image 1](pay2.JPG)
 ![Test Image 1](ozow.JPG)
+![Test Image 1](fire.JPG)
 ![Test Image 1](about.JPG)
 ![Test Image 1](gallery.JPG)
 ![Test Image 1](gall2.JPG)
